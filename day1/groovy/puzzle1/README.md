@@ -42,4 +42,4 @@ Find the Elf carrying the most Calories. How many total Calories is that Elf car
 # Execution
 Execute from this directory with the following command:
 
-`docker run --rm -v "$PWD":/home/groovy/scripts -w /home/groovy/scripts groovy:latest groovy puzzle-1.groovy -d`
+`docker run --rm -v "$PWD":/home/groovy/scripts -w /home/groovy/scripts groovy:latest groovy puzzle1.groovy -d`
