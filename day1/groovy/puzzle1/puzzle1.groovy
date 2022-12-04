@@ -1,5 +1,5 @@
 
-def inputFile = "./puzzle-1-input.txt";
+def inputFile = "./puzzle1-input.txt";
 def highestTotal = 0, currentTotal = 0;
 
 new File(inputFile).eachLine { line ->
