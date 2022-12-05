@@ -1,6 +1,6 @@
 /**
 run with:
-docker run --rm -v "$PWD":/home/groovy/scripts -w /home/groovy/scripts groovy:latest groovy puzzle1.groovy -d
+docker run --rm -v "$PWD":/home/groovy/scripts -w /home/groovy/scripts groovy:latest groovy puzzle1-1.groovy -d
 */
 
 def inputFile = "./day1-input.txt";
